@@ -1,0 +1,22 @@
+
+body {
+    background-color: linen;
+}
+table {
+  text-align: center;
+    table-layout: fixed;
+    width: 25%;
+    margin-left: auto; 
+    margin-right: auto;
+    border: 1px solid rgb(122, 0, 16);
+  }
+
+  th, td {
+    padding: 5px;
+    border: 1px solid rgb(122, 0, 16);
+  }
+.center {
+    text-align: center;
+    color: maroon;
+  }
+
